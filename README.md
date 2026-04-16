@@ -1,8 +1,8 @@
-# 🔬 OA Journal Finder
+# 🔬 OpenAccess Journal Finder
 
 **Açık Erişim Dergi Bulucu — Ege Üniversitesi Kütüphane Portalı**
 
-Fonlanan Oku & Yayımla (Read & Publish) anlaşmaları kapsamındaki **Q1 dergilerini** yapay zeka ile bulun.
+Fonlanan Oku & Yayımla (Read & Publish) anlaşmaları kapsamındaki dergileri yapay zeka ile bulun.
 
 ---
 
